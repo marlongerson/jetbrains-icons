@@ -1,0 +1,31 @@
+{
+    "name": "jetbrains-icons",
+    "displayName": "JetBrains Icons",
+    "description": "JetBrains file icon theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "extensionKind": [
+        "ui",
+        "workspace"
+    ],
+    "keywords": [
+        "icons",
+        "theme",
+        "icon-theme",
+        "customization"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "jetbrains-icons",
+                "label": "JetBrains Icons",
+                "path": "jetbrains-icons.json"
+            }
+        ]
+    }
+}
