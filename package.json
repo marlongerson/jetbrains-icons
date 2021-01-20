@@ -8,7 +8,7 @@
     "icon": "logo.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/marlongerson/jetbrain-icons.git"
+        "url": "https://github.com/marlongerson/jetbrains-icons"
     },
     "engines": {
         "vscode": "^1.52.0"
