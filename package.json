@@ -4,7 +4,7 @@
     "description": "JetBrains file icon theme",
     "publisher": "marlongerson",
     "author": "Marlon Gerson",
-    "version": "0.0.7",
+    "version": "0.0.71",
     "icon": "logo.png",
     "repository": {
         "type": "git",
