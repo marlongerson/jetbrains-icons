@@ -2,12 +2,20 @@
     "name": "jetbrains-icons",
     "displayName": "JetBrains Icons",
     "description": "JetBrains file icon theme",
-    "version": "0.0.1",
+    "publisher": "marlongerson",
+    "author": "Marlon Gerson",
+    "version": "0.0.5",
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marlongerson/jetbrain-icons.git"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
     "extensionKind": [
         "ui",
