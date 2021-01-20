@@ -405,6 +405,8 @@
     "folderNames": {
         "resources": "_folder_resources",
         "plugins": "_folder_plugins",
+        "src": "_folder_settings",
+        "source": "_folder_settings",
         "settings": "_folder_settings"
     },
     "fileNames": {
@@ -725,6 +727,8 @@
         "folderNames": {
             "resources": "_folder_resources_light",
             "plugins": "_folder_plugins_light",
+            "src": "_folder_settings_light",
+            "source": "_folder_settings_light",
             "settings": "_folder_settings_light"
         },
         "fileNames": {
