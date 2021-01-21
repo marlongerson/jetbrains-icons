@@ -46,7 +46,10 @@
             "iconPath": "./icons/archive.svg"
         },
         "_asp_net": {
-            "iconPath": "./icons/asp_net_dark.svg"
+            "iconPath": "./icons/asp_net.svg"
+        },
+        "_asp_net_light": {
+            "iconPath": "./icons/asp_net_light.svg"
         },
         "_razor": {
             "iconPath": "./icons/razor.svg"
@@ -740,6 +743,15 @@
             "hgignore": "_ignore_file_light",
             "ignore": "_ignore_file_light",
             "sln": "_solution_light",
+            "asax": "_asp_net_light",
+            "ascx": "_asp_net_light",
+            "aspx": "_asp_net_light",
+            "asp": "_asp_net_light",
+            "master": "_asp_net_light",
+            "skin": "_asp_net_light",
+            "ashx": "_asp_net_light",
+            "asmx": "_asp_net_light",
+            "svc": "_asp_net_light",
             "razor": "_razor_light",
             "cshtml": "_razor_light",
             "asmdef": "_asmdef_light",
