@@ -12,7 +12,7 @@ in JetBrains products.
 This extension is available for free in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=marlongerson.jetbrains-icons)
 
 ```shell
-ext install material theme icons
+ext install jetbrains-icons
 ```
 
 ## Contributing
