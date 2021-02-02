@@ -401,6 +401,12 @@
         },
         "_jscs_light": {
             "iconPath": "./icons/jscs_light.svg"
+        },
+        "_dart": {
+            "iconPath": "./icons/dart_file.svg"
+        },
+        "_dart_light": {
+            "iconPath": "./icons/dart_file_light.svg"
         }
     },
     "file": "_text",
@@ -721,7 +727,8 @@
         "log": "_text",
         "opts": "_text",
         "policy": "_text",
-        "txt": "_text"
+        "txt": "_text",
+        "dart": "_dart"
     },
     "light": {
         "folder": "_folder_light",
@@ -802,7 +809,8 @@
             "sh": "_terminal_light",
             "zsh": "_terminal_light",
             "jscs.json": "_jscs_light",
-            "jscsrc": "_jscs_light"
+            "jscsrc": "_jscs_light",
+            "dart": "_dart_light"
         }
     }
 }
