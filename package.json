@@ -1,39 +1,39 @@
 {
-    "name": "jetbrains-icons",
-    "displayName": "JetBrains Icons",
-    "description": "JetBrains file icon theme",
-    "publisher": "marlongerson",
-    "author": "Marlon Gerson",
-    "version": "0.0.82",
-    "icon": "logo.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/marlongerson/jetbrains-icons"
-    },
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Themes",
-        "Other"
-    ],
-    "extensionKind": [
-        "ui",
-        "workspace"
-    ],
-    "keywords": [
-        "icons",
-        "theme",
-        "icon-theme",
-        "customization"
-    ],
-    "contributes": {
-        "iconThemes": [
-            {
-                "id": "jetbrains-icons",
-                "label": "JetBrains Icons",
-                "path": "jetbrains-icons.json"
-            }
-        ]
-    }
+  "name": "jetbrains-icons",
+  "displayName": "JetBrains Icons",
+  "description": "JetBrains file icon theme",
+  "publisher": "marlongerson",
+  "author": "Marlon Gerson",
+  "version": "1.0.0",
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marlongerson/jetbrains-icons"
+  },
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "customization"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "jetbrains-icons",
+        "label": "JetBrains Icons",
+        "path": "jetbrains-icons.json"
+      }
+    ]
+  }
 }
