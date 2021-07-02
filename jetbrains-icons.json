@@ -422,6 +422,15 @@
     },
     "_x86_plan9_assembly": {
       "iconPath": "./icons/cpu.svg"
+    },
+    "_eslint": {
+      "iconPath": "./icons/eslint.svg"
+    },
+    "_stylelint": {
+      "iconPath": "./icons/stylelint.svg"
+    },
+    "_stylelint_light": {
+      "iconPath": "./icons/stylelint_light.svg"
     }
   },
   "file": "_text",
@@ -441,8 +450,15 @@
     "exclude": "_exclude",
     "jshint.json": "_jshint",
     ".babelrc": "_json",
-    ".eslintrc": "_json",
-    ".stylelintrc": "_json",
+    ".eslintrc": "_eslint",
+    ".eslintrc.json": "_eslint",
+    ".eslintrc.yml": "_eslint",
+    ".eslintrc.js": "_eslint",
+    ".stylelintrc": "_stylelint",
+    ".stylelintrc.js": "_stylelint",
+    ".stylelintrc.json": "_stylelint",
+    ".stylelintrc.yml": "_stylelint",
+    ".prettierrc": "_json",
     "bowerrc": "_json",
     "jest.config": "_json",
     "stylecop.cache": "_xml",
@@ -762,8 +778,11 @@
     "fileNames": {
       "exclude": "_exclude_light",
       ".babelrc": "_json_light",
-      ".eslintrc": "_json_light",
-      ".stylelintrc": "_json_light",
+      ".stylelintrc": "_stylelint_light",
+      ".stylelintrc.js": "_stylelint_light",
+      ".stylelintrc.json": "_stylelint_light",
+      ".stylelintrc.yml": "_stylelint_light",
+      ".prettierrc": "_json_light",
       "bowerrc": "_json_light",
       "jest.config": "_json_light"
     },
